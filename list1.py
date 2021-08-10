@@ -1,0 +1,25 @@
+#list
+# li=[ 'misbaa','mahevarsh','mahima','madhuri','manvi','mahira']
+# print(li)
+# li.sort()
+# print(li)
+# li.reverse()
+# print(li)
+# li.append(" mona")
+# print(li)
+# li.pop("mona")
+# print(li).
+l1=[1,23,45,12,43,67,89.23,21]
+print(l1)
+# l1.sort()
+# print(l1)
+# l1.reverse()
+# print(l1)
+# l1.append(45,87)
+# print(l1)
+# l1.insert(12,23)
+# print(l1)
+# l1.remove(61)
+# print(l1)
+# l1.pop(3)
+# print(l1)
